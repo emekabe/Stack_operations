@@ -30,5 +30,20 @@ public class StackOperations {
         
         // 4
         System.out.println(myStack.peek());
+        
+        
+        /*  Auxiliary stack operations  */
+        
+        // Size
+        
+        // 3
+        System.out.println(myStack.size());
+        
+        // is empty
+        
+        // false
+        System.out.println(myStack.empty());
+        // or
+        System.out.println(myStack.isEmpty());
     }
 }
